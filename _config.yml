@@ -113,9 +113,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
-  wikipedia        :
-  skype            : "plasma.coder"
+  youtube          : "http://stackoverflow.com/users/123456/username
+  wikipedia        : "i do this"
+  whatsapp         : "plasma.coder"
 
 # Reading Files
 include:
