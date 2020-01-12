@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "MD IBRAHIM"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile_pic.jpg"
+  bio              : "Research Engineer at LaTIM(laboratoire de traitement de l’information médicale)"
+  location         : "Brest,France"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=g2YzwJ4AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Md_Ibrahim7"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  skype            : "plasma.coder"
 
 # Reading Files
 include:
