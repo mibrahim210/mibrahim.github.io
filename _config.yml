@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "MD IBRAHIM"
   avatar           : "profile_pic.jpg"
-  bio              : "Research Engineer at LaTIM INSERM UMR 1101"
+  bio              : "Research Engineer at LaTIM INSERM-UMR1101"
   location         : "Brest,France"
-  employer         :  "INSERM" 
+  employer         :  #"INSERM" 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=g2YzwJ4AAAAJ"
   email            : "md.ibrahim210@gmail.com"
@@ -113,9 +113,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "http://stackoverflow.com/users/123456/username"
-  wikipedia        : "i do this"
-  whatsapp         : "plasma.coder"
+  youtube          : #"http://stackoverflow.com/users/123456/username"
+  wikipedia        : #"i do this"
+ 
 
 # Reading Files
 include:
