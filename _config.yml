@@ -85,7 +85,7 @@ author:
   bio              : "Research Engineer at LaTIM INSERM UMR 1101"
   location         : "Brest,France"
   employer         :  "INSERM" 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=g2YzwJ4AAAAJ"
   email            : "md.ibrahim210@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Md_Ibrahim7"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/md-ibrahim-8b84526a/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
